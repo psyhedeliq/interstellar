@@ -107,6 +107,9 @@ body {
 }
 
 @media (max-width: 576px) {
+  body {
+    overflow-x: hidden;
+  }
   .little {
     font-size: 2rem;
   }
