@@ -1,5 +1,7 @@
 # Project - InterStellar #
+
 [InterStellar](https://psyhedeliq.github.io/interstellar/)  
+
 This is a multy page website for a space exploration company.
 
 ## Getting Started ##
@@ -7,23 +9,30 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing ###
 
-  1. Clone the repo  
+1. Clone the repo  
+
+```
+git clone https://github.com/psyhedeliq/interstellar.git
+```
   
-    git clone https://github.com/psyhedeliq/interstellar.git
+2. Open home file  
   
-  2. Open home file  
+```  
+open index.html 
+```
   
-    open index.html 
+3. Explore  
   
-  3. Explore  
-  
-    Enjoy :)
+```
+Enjoy :)
+```
 
 ## Build With ##
-  * HTML5
-  * CSS3
-  * jQuery
-  * Bootstrap
+* HTML5
+* CSS3
+* jQuery
+* Bootstrap
   
 ## Contributors ##
-  * Filip Cornel Cristian
+
+* **Filip Cornel Cristian**
