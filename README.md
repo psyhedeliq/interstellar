@@ -1,5 +1,3 @@
-# InterStellar #
-### This is a website for a space exploration company ###
 # Project - InterStellar #
 [InterStellar](https://psyhedeliq.github.io/interstellar/)  
 This is a multy page website for a space exploration company.
