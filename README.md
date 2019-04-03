@@ -2,7 +2,7 @@
 
 [InterStellar](https://psyhedeliq.github.io/interstellar/)  
 
-This is a multy page website for a space exploration company.
+This is a multi page website for a space exploration company.
 
 ## Getting Started ##
 
